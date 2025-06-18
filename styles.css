@@ -1,0 +1,23 @@
+* {
+  font-family: 'Courier New', Courier, monospace;  
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.nav_link {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+}
+
+.nav_link:hover {
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
